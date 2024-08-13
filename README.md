@@ -124,7 +124,7 @@ My goal is to deepen my understanding of Redux and improve my ability to manage 
 
 
 ## Live Demo
-You can try out the live demo of the Counter App here: (counter-app-learning-redux-ld4hbf606-brielle28s-projects.vercel.app)
+You can try out the live demo of the Counter App here: counter-app-learning-redux-ld4hbf606-brielle28s-projects.vercel.app
 
 ## Contributing
 
